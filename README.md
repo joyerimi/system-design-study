@@ -3,12 +3,13 @@
 [가상 면접 사례로 배우는 대규모 시스템 설계 기초](http://www.yes24.com/Product/Goods/102819435)
 
 * 기간: 2025.06.11(수) \~ 
-* 시간 및 장소: 매주 수요일 오후 X시, 오프라인
+* 시간 및 장소: 매주 수요일 오후 3시, 오프라인 (역삼역 인근)
 * 스터디원:
 
 | 이름         | GitHub 프로필                                             |
 | ---------- | ------------------------------------------------------ |
 | 김용범    | [Bumnote](https://github.com/Bumnote)       |
+| 소태호 | [SoTaeHo](https://github.com/SoTaeHo)       |
 | 이권민 | [dradra0905](https://github.com/dradra0905) |
 | 조예림   | [joyerimi](https://github.com/joyerimi)     |
 
@@ -45,6 +46,7 @@ SYSTEM-DESIGN-STUDY/
 │   ├── README.md              ← 발표자 공통 요약
 │   └── members/
 │       ├── 김용범.md
+│       ├── 소태호.md
 │       ├── 이권민.md
 │       └── 조예림.md
 ├── chap02/
