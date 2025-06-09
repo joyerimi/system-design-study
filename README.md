@@ -5,15 +5,14 @@
 * 기간: 2025.06.11(수) \~ 
 * 시간 및 장소: 매주 수요일 오후 3시, 오프라인 (역삼역 인근)
 * 스터디원:
-
-| 이름         | GitHub 프로필                                             |
-| ---------- | ------------------------------------------------------ |
-| 김용범    | [Bumnote](https://github.com/Bumnote)       |
-| 소태호 | [SoTaeHo](https://github.com/SoTaeHo)       |
-| 이권민 | [dradra0905](https://github.com/dradra0905) |
-| 조예림   | [joyerimi](https://github.com/joyerimi)     |
-
+<div align="center">
+ 
+| **조예림** | **이권민** | **김용범** | **소태호** |
+| :------: |  :------: | :------: | :------: |
+| [<img src="https://avatars.githubusercontent.com/u/96174711?v=4" height=150 width=150> <br/> @joyerimi](https://github.com/joyerimi) | [<img src="https://avatars.githubusercontent.com/u/101376985?v=4" height=150 width=150> <br/> @dradra0905](https://github.com/dradra0905) | [<img src="https://avatars.githubusercontent.com/u/88239689?v=4" height=150 width=150> <br/> @Bumnote](https://github.com/Bumnote) | [<img src="https://avatars.githubusercontent.com/u/91146046?v=4" height=150 width=150> <br/> @SoTaeHo](https://github.com/SoTaeHo) |
 ---
+
+</div>
 
 ## 목적
 
