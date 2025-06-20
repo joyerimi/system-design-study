@@ -80,8 +80,8 @@ SYSTEM-DESIGN-STUDY/
 | Chapter               | 발표자     | 발표 자료  |
 | --------------------- | ------- | ------ |
 | 01장. 사용자 수에 따른 규모 확장성 | [발표자](https://github.com/joyerimi) | [자료](https://github.com/joyerimi/system-design-study/pull/4) |
-| 02장. 개략적인 규모 추정       | [발표자](https://github.com/SoTaeHo) | [자료](https://github.com/joyerimi/system-design-study/pull/9) |
-| 03장. 시스템 설계 면접 공략법    | [발표자]() | [자료]() |
+| 02장. 개략적인 규모 추정 + 캐시      | [발표자](https://github.com/SoTaeHo) | [자료](https://github.com/joyerimi/system-design-study/pull/9) |
+| 03장. 시스템 설계 면접 공략법 + 인덱스    | [발표자]() | [자료]() |
 | 04장. 뉴스 피드 시스템 설계     | [발표자]() | [자료]() |
 | 05장. 구글 검색 시스템 설계     | [발표자]() | [자료]() |
 | 06장. URL 단축기 설계       | [발표자]() | [자료]() |
