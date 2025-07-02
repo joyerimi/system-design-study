@@ -59,7 +59,6 @@
 ```
 SYSTEM-DESIGN-STUDY/
 ├── chap01/
-│   ├── README.md              ← 발표자 공통 요약
 │   └── members/
 │       ├── 김용범.md
 │       ├── 소태호.md
@@ -71,7 +70,6 @@ SYSTEM-DESIGN-STUDY/
 ```
 
 * 각자 한 파일 안에 개념 정리, 면접 질문, 서비스 적용 정리를 모두 작성
-* 공통 정리는 각 챕터 폴더의 `README.md`에 작성
 
 ---
 
@@ -81,7 +79,7 @@ SYSTEM-DESIGN-STUDY/
 | --------------------- | ------- | ------ |
 | 01장. 사용자 수에 따른 규모 확장성 | [발표자](https://github.com/joyerimi) | [자료](https://github.com/joyerimi/system-design-study/pull/4) |
 | 02장. 개략적인 규모 추정 + 캐시      | [발표자](https://github.com/SoTaeHo) | [자료](https://github.com/joyerimi/system-design-study/pull/9) |
-| 03장. 시스템 설계 면접 공략법 + 인덱스    | [발표자]() | [자료]() |
+| 03장. 시스템 설계 면접 공략법 + 인덱스    | [발표자](https://github.com/joyerimi) | [자료](https://github.com/joyerimi/system-design-study/pull/13) |
 | 04장. 뉴스 피드 시스템 설계     | [발표자]() | [자료]() |
 | 05장. 구글 검색 시스템 설계     | [발표자]() | [자료]() |
 | 06장. URL 단축기 설계       | [발표자]() | [자료]() |
