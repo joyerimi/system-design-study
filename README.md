@@ -19,7 +19,7 @@
 </div>
 
 * 기간: 2025.06.11(수) \~ 
-* 시간 및 장소: 매주 수요일 오후 3시, 오프라인 (역삼역 인근)
+* 시간 및 장소: 매주 수요일 오후 6시, 오프라인 (역삼역 인근)
 
 ## 목적
 
@@ -47,7 +47,7 @@
 ## 주간 스터디 사이클
 
 * **발표 전**: 해당 장에 대한 개인 정리 PR 제출
-* **수요일**: 지난 장 간단 회고 + 발표 진행
+* **수요일**: 발표 진행(발표자는 직전 사다리 타기로 랜덤 선정)
 * **목요일\~금요일**: 다른 스터디원의 PR 읽고 코멘트 남기기
 * **토요일\~화요일**: 받은 코멘트에 답변하며 토론 진행
 * **다음 발표 준비**: 동시에 각자 다음 장 학습 및 정리하여 PR 작성
@@ -75,21 +75,24 @@ SYSTEM-DESIGN-STUDY/
 
 ## 학습 내용 정리
 
-| Chapter               | 발표자     | 발표 자료  |
-| --------------------- | ------- | ------ |
-| 01장. 사용자 수에 따른 규모 확장성 | [발표자](https://github.com/joyerimi) | [자료](https://github.com/joyerimi/system-design-study/pull/4) |
-| 02장. 개략적인 규모 추정 + 캐시      | [발표자](https://github.com/SoTaeHo) | [자료](https://github.com/joyerimi/system-design-study/pull/9) |
-| 03장. 시스템 설계 면접 공략법 + 인덱스    | [발표자](https://github.com/joyerimi) | [자료](https://github.com/joyerimi/system-design-study/pull/13) |
-| 04장. 뉴스 피드 시스템 설계     | [발표자]() | [자료]() |
-| 05장. 구글 검색 시스템 설계     | [발표자]() | [자료]() |
-| 06장. URL 단축기 설계       | [발표자]() | [자료]() |
-| 07장. 채팅 시스템 설계        | [발표자]() | [자료]() |
-| 08장. 동영상 스트리밍 시스템 설계  | [발표자]() | [자료]() |
-| 09장. 온라인 저장소 설계       | [발표자]() | [자료]() |
-| 10장. 소셜 그래프 설계        | [발표자]() | [자료]() |
-| 11장. 광고 시스템 설계        | [발표자]() | [자료]() |
-| 12장. 웹 크롤러 설계         | [발표자]() | [자료]() |
-| 13장. 트래픽 제한 시스템 설계    | [발표자]() | [자료]() |
-| 14장. 추천 시스템 설계        | [발표자]() | [자료]() |
-| 15장. 시스템 설계 면접 Q\&A   | [발표자]() | [자료]() |
-| 16장. 면접 체크리스트         | [발표자]() | [자료]() |
+| 주차      | Chapter                      | 발표자                                     | 발표 자료                                                               |
+| ------- | ---------------------------- | --------------------------------------- | ------------------------------------------------------------------- |
+| 1주차     | 01장. 사용자 수에 따른 규모 확장성        | [joyerimi](https://github.com/joyerimi) | [자료](https://github.com/joyerimi/system-design-study/pull/4)        |
+| 2주차     | 02장. 개략적인 규모 추정              | [SoTaeHo](https://github.com/SoTaeHo)   | [자료](https://github.com/joyerimi/system-design-study/pull/9)        |
+| 2주차(추가) | **캐시**                       | [Bumnote](https://github.com/Bumnote)   | [자료](https://github.com/joyerimi/system-design-study/pull/8)        |
+| 3주차     | 03장. 시스템 설계 면접 공략법           | [joyerimi](https://github.com/joyerimi) | [자료](https://github.com/joyerimi/system-design-study/pull/13)       |
+| 3주차(추가) | **인덱스**                      | [joyerimi](https://github.com/joyerimi) | [자료](https://github.com/joyerimi/system-design-study/pull/13)       |
+| 4주차     | 04장. 처리율 제한 장치의 설계           | [SoTaeHo](https://github.com/SoTaeHo)   | [자료](https://github.com/joyerimi/system-design-study/pull/20)       |
+| 5주차     | 05장. 안정 해시 설계                | [Bumnote](https://github.com/Bumnote)   | [자료](https://github.com/joyerimi/system-design-study/pull/23/files) |
+| 6주차     | 06장. 키-값 저장소 설계              | [SoTaeHo](https://github.com/SoTaeHo)   | [자료](https://github.com/joyerimi/system-design-study/pull/27)       |
+| 7주차     | 07장. 분산 시스템을 위한 유일 ID 생성기 설계 | [SoTaeHo](https://github.com/SoTaeHo)   | [자료](https://github.com/joyerimi/system-design-study/pull/27)       |
+| 8주차     | 08장. URL 단축기 설계              | [발표자]()                                 | [자료]()                                                              |
+| 9주차     | 09장. 웹 크롤러 설계                | [발표자]()                                 | [자료]()                                                              |
+| 10주차    | 10장. 알림 시스템 설계               | [발표자]()                                 | [자료]()                                                              |
+| 11주차    | 11장. 뉴스 피드 시스템 설계            | [발표자]()                                 | [자료]()                                                              |
+| 12주차    | 12장. 채팅 시스템 설계               | [발표자]()                                 | [자료]()                                                              |
+| 13주차    | 13장. 검색어 자동완성 설계             | [발표자]()                                 | [자료]()                                                              |
+| 14주차    | 14장. 유튜브 설계                  | [발표자]()                                 | [자료]()                                                              |
+| 15주차    | 15장. 구글 드라이브 설계              | [발표자]()                                 | [자료]()                                                              |
+| 16주차    | 16장. 배움은 계속된다                | [발표자]()                                 | [자료]()                                                              |
+
